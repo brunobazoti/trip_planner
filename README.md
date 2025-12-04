@@ -89,6 +89,3 @@ def local_expert(self):
 - **Privacy**: Local models allow processing of data within your own infrastructure, ensuring data privacy.
 - **Customization**: You can customize the model to better suit the specific needs of your tasks.
 - **Performance**: Depending on your setup, local models can offer performance benefits, especially in terms of latency.
-
-## License
-This project is released under the MIT License.
